@@ -1,2 +1,2 @@
 # nsc9.github.io
-Generates Derivatives and Integrals
+Helps you practice handwritten Calculus by generating problems.
