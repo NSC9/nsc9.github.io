@@ -1,2 +1,2 @@
 # nsc9.github.io
-Helps you practice handwritten Calculus by generating problems.
+Practice handwritten Calculus with generated problems.
