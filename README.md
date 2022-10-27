@@ -4,3 +4,5 @@ Math Study Aid Web App for STEM Students. Generates Calculus I Problems To Solve
 Source Code at https://github.com/NSC9/Sample_of_Work/tree/Main/Artificial_Calculus_Teacher
 
 Live at https://nsc9.github.io/
+
+Live also at https://nsc9-artificial-calculus-teacher.hf.space/app/1
